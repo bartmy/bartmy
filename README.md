@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bartmy
 - 👀 I’m interested in vidoe games and sports 
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on some projects for beginners 
+- 💞️ I’m looking to collaborate on java projects for beginners 
 - 📫 How to reach me, just contact me here
 
 <!---
